@@ -1,0 +1,39 @@
+[
+    {
+        "login": "adm1@mail.com",
+        "password": "amin1n@1",
+        "confirpassword": "amin1n@1",
+        "nom": "bae",
+        "prenom": "code",
+        "role": "ROLE_ADMIN"
+    },
+    {
+        "prenom": "Mamadou",
+        "nom": "Barro",
+        "login": "mamadoubarro088@gmail.com",
+        "password": "12345678",
+        "confirmpassword": "12345678",
+        "role": "ROLE_ADMIN"
+    },
+    {
+        "controlleurs": "admin",
+        "action": "create.admin",
+        "prenom": "mouhamed",
+        "login": "mouha221@gmail.com",
+        "nom": "Ndoye",
+        "password": "1233216",
+        "confirmpassword": "1233216",
+        "create": "",
+        "btn_submit": "",
+        "role": "ROLE_JOUEUR"
+    },
+    {
+        "controlleurs": "admin",
+        "prenom": "mouhamed5555",
+        "nom": "dkdfkd",
+        "login": "med@gkgkg.com",
+        "password": "ppppppp",
+        "confirmpassword": "ppppppp",
+        "role": "ROLE_ADMIN"
+    }
+]

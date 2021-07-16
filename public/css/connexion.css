@@ -1,0 +1,179 @@
+
+body{
+    background-image:url(../img/img1.jpg);
+    background-repeat: no-repeat;
+    background-position:center;
+    background-size: cover;
+}
+.vertical-menu {
+    width:40%; /* Set a width if you like */
+    margin-left: 5%;
+    border-radius: 10px 10px 10px 10px;
+    margin-top: 100px;
+    border:1px solid grey;
+  }
+  
+  .vertical-menu a {
+    background-color: rgb(247, 239, 239); /* Grey background color */
+    color: black; /* Black text color */
+    display: block; /* Make the links appear below each other */
+    padding: 12px; /* Add some padding */
+    text-decoration: none; /* Remove underline from links */
+    height:70px;
+   
+}
+    
+  
+  .vertical-menu a:hover {
+    background-color: #ccc; /* Dark grey background on mouse-over */
+    border-left: 8px solid red;
+
+  }
+  
+  .positive {
+    background-color:red; /* Add a green color to the "active/current" link */
+    color: white;
+    border-radius: 10px 10px 0px 0px;
+    height:120px;
+       
+  }
+  p{
+      margin-left: 2%;
+  }
+  .tête{
+      background-color: white;
+      margin-right: 2%;
+      height:100px;
+      color:red;
+      text-align: center;
+      padding: 40px;
+      font-size:20px;
+  }
+  .bord{
+    border : 1px solid ;
+    color: darkgray;
+    margin-top: 7px;
+    width: auto;
+  }
+  .active{
+    margin-top: -7.5%;
+    margin-left: 80%;
+    color:floralwhite;
+    background-color: rgb(202, 197, 197);
+    max-width: 15%;
+    max-height: 40px;
+  }
+  .nav-link{
+      color: black;
+      text-align: center;
+      position:static;
+      margin-top: -2%;
+      
+  }
+  .borne{
+    max-width: 40%;
+    margin-left:50%;
+    margin-top:-45%;
+    height:auto;
+    border:1px solid grey;
+  }
+  #yu{
+    margin-left: -0.3%;
+  }
+  .form-control{
+    max-width:50%;
+   background-color: rgba(139, 138, 138, 0.425);
+  }
+  .bon{
+    margin:2%;
+    height:auto;
+  }
+  label{
+    font-size:10px;
+  }
+   .btn-primary{
+     background-color: red;
+     border:0px;
+     margin-left: 10%;
+   }
+   .pour{
+     border:1px solid grey;
+     margin:7%;
+     margin-top:4%;
+     border-radius: 2% 2% 2% 2%;
+     
+   }
+   .tour{
+     border:1px solid grey;
+     width:45%;
+     margin-top:-49%;
+     margin-left:50%;
+     height:auto;
+   
+   }
+   .autre{
+     border:1px solid grey;
+     margin-left:50%;
+     margin-top: -50.69%;
+     width:35%;
+     border-radius: 5% 5% 5% 5%;
+     
+   }
+   .deux{
+     border:1px solid grey;
+     margin-left:4%;
+     margin-right:4%;
+     margin-top:-2%;
+     border-radius: 5% 5% 5% 5%;
+   }
+  
+   .head{
+    background-color: red;
+    padding-bottom: 6px;
+  }
+  .head{
+    background-color: red;
+    height:1%;
+    padding-bottom: 10px;
+  }
+  #marq{
+    text-decoration:auto;
+    text-transform: inline;
+    font-family: 'Monserrats';
+    
+    }
+  .form{
+    margin-top: 5%;
+    float: 30%;
+    
+  }
+  #log{
+   font-family: 'Monserrats';
+   font-size: 120%;
+   font-weight: top;
+  }
+  .img{
+      width: 70px;
+      height: 70px;
+  }
+  #menu{
+    height: 30%;
+    width: 40%;
+    background-color: red;
+    
+  }
+  .font{
+    background-color: red;
+    height: 30px;
+    width: 40px;
+    border:solid 10px ;
+
+  }
+  #Question{
+  margin-left: 12%;
+  }
+  .icon{
+    padding-top: 5px;
+  
+  }
+  
